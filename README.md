@@ -2,7 +2,9 @@
 
 ## what
 
-It receives the post requests from GitLab and replaces some string and posts to Slack :)
+It receives the post requests from GitLab and replaces some string and posts to Slack :)　　
+<img width="474" alt="スクリーンショット 2021-08-24 15 56 29" src="https://user-images.githubusercontent.com/7005185/130572764-3c28574e-1b79-4332-a469-038338835e01.png">
+
 
 ## where
 
