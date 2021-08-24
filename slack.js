@@ -8,5 +8,4 @@ function post2Slack(payload) {
     payload: JSON.stringify(payload)
   };
   const response = UrlFetchApp.fetch(url, params);
-  console.log(response.getResponseCode());
 }
