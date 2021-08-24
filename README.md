@@ -1,4 +1,4 @@
-# webhooks proxy
+# GitLab webhooks proxy
 
 ## what
 
